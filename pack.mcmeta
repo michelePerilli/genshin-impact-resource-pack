@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 8,
-    "description": "don't forget to read README.txt"
+    "pack_format": 12,
+    "description": "Genshin Impact Pack"
   }
 }
